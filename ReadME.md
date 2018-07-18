@@ -15,7 +15,7 @@
 
 ## 一、代码编写规范
 
-### Python代码编写规则
+### Python代码编写规范
 
 1、Python代码规范遵循PEP8标准。
 
@@ -34,7 +34,13 @@
 - 原则上一条验收标准可以对应至少一个断言（assert），没有断言的测试被视为无效测试；
 具体可以参考：https://github.com/divio/django-cms/tree/develop/cms/tests
 
+### JavaScript编码规范
 
+1、遵循ESLint格式编写要求
+
+2、[变量方法命名规范](http://alloyteam.github.io/CodeGuide/)
+
+3、[Vue命名规范](./vue编码规范.md)
 
 ## 二、使用git进行代码版本管理 
 
